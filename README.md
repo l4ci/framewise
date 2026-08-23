@@ -1,3 +1,21 @@
+> ## This repo has moved
+>
+> Latticework is now one of two collections in **[l4ci/skills](https://github.com/l4ci/skills)**,
+> alongside `stray`. The skills are unchanged and the catalog below still describes them,
+> but new work happens there and this copy will stop being updated.
+>
+> ```
+> /plugin marketplace add l4ci/skills
+> /plugin install latticework@skills
+> ```
+>
+> ```shell
+> npx skills add l4ci/skills --skill swot-analysis
+> ```
+>
+> `concise-writing` moved to the [stray](https://github.com/l4ci/skills/tree/main/plugins/stray)
+> collection, since it works on words rather than on a framework.
+
 # Latticework
 
 > *"You've got to have models in your head and array your experience, both vicarious and direct, on this latticework of models."*
